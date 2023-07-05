@@ -87,7 +87,7 @@ function App() {
                 transition="all 0.2s"
                 _hover={{ transform: 'scale(1.05)' }}
                 maxW="240px"
-                w="100%"
+                w="90%"
                 h="100%"
                 mx="auto"
               >

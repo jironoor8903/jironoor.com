@@ -19,7 +19,7 @@ const Content = () => {
         </Box>
       </Flex>
       <Box bg="white" p={4} borderRadius="md">
-        <Accordion allowToggle width="450px">
+        <Accordion allowToggle width="350px">
           <style>
             {`
             .accordion-button {
