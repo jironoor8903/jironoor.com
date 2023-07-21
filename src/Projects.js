@@ -110,7 +110,7 @@ function App() {
           </Grid>
         </Flex>
 
-        <Modal isOpen={isOpen} onClose={onClose} isCentered size="xl">
+        <Modal isOpen={isOpen} onClose={onClose} isCentered size="md">
           <ModalOverlay />
           <ModalContent>
             <ModalHeader>{selectedProject?.name}</ModalHeader>
